@@ -4,17 +4,16 @@
     <span>Desenvolvedora Em "Desenvolvimento"</span>
 </h1>
 
-Todo dia é sempre um novo dia para ser melhor do que você era ontem!<p>
+A arrogancia é uma montanha de neve que quando colapsar ira te enterrar <p>
 
 ---
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DD&size=35&center=true&vCenter=true&width=1000&lines=Oi!Eu+me+chamo+Camila+Spakauskas;+Tenho+29+anos+,solteira+e+terminando+ADS;Sou+uma+Desenvolvedora+Jr+em+treinamento!)](https://git.io/typing-svg)
 
-Trabalhei por mais de 3 anos com suporte técnico jr, trabalhei com muita coisa distinta, já fui até caixa de supermecado e aprendi muito nesses empregos e posso dizer que sinceramente eu não tenho medo algum de botar a cara a tapa e distancia não é problema.  <p>
 
-Estou estudando Python ativamente desde agosto de 2023 Python e tenho me dedicado boa parte do meu dia para meus estudos e espero conseguir ingressar na área o quanto antes!<p>
-
-Todos os dias sempre estou aprendendo coisa nova e espero sinceramente conseguir me tornar Desenvolvedora num futuro proximo. 
+Eu me chamo Camila Pinho Spakauskas. tenho 29 anos, formada em Analise e Desenvolvimento de Sistemas, estou trabalhando integralmente na Software.com.br como Analista de Help Desk, logo mais começarei minha pós graduação e ainda estou em duvida do que fazer. 
+Eu estudo diariamente sobre o mundo de TI e ainda estou um tanto indecisa de pra onde eu vou mirar, se é DevOps, Back-end, Infra...são todas excelentes opções e eu gosto delas.
+Já trabalhei como caixa de mercado, padeira, tive minha propria loja aos 17 anos, trabalhava a mais de 4h da minha casa e fazia o trajeto todos os dias com um sorriso no rosto afinal tinha trampo. Eu não tenho medo de mudanças e sim de ficar pra trás. A vida é um eterno aprendizado e quem acha que sabe na realidade nada sabe. Somos eternos estudantes nesse mundo que é o planeta terra.
 _____
 ### Conecte-se comigo
 
