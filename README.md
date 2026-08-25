@@ -11,8 +11,8 @@ A arrogancia é uma montanha de neve que quando colapsar ira te enterrar <p>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DD&size=35&center=true&vCenter=true&width=1000&lines=Oi!Eu+me+chamo+Camila+Spakauskas;+Tenho+29+anos+,solteira+e+terminando+ADS;Sou+uma+Desenvolvedora+Jr+em+treinamento!)](https://git.io/typing-svg)
 
 
-Eu me chamo Camila Pinho Spakauskas. tenho 29 anos, formada em Analise e Desenvolvimento de Sistemas, estou trabalhando integralmente na Software.com.br como Analista de Help Desk, logo mais começarei minha pós graduação e ainda estou em duvida do que fazer. 
-Eu estudo diariamente sobre o mundo de TI e ainda estou um tanto indecisa de pra onde eu vou mirar, se é DevOps, Back-end, Infra...são todas excelentes opções e eu gosto delas.
+Eu me chamo Camila Pinho Spakauskas. tenho 31 anos, formada em Analise e Desenvolvimento de Sistemas com Pós em Segurança da Informação. 
+Eu estudo incansavelmente sobre todos os assuntos de TI de Infraestrutura e Redes para sempre aprimorar minhas habilidades, sejam Hard ou Soft-skills. 
 Já trabalhei como caixa de mercado, padeira, tive minha propria loja aos 17 anos, trabalhava a mais de 4h da minha casa e fazia o trajeto todos os dias com um sorriso no rosto afinal tinha trampo. Eu não tenho medo de mudanças e sim de ficar pra trás. A vida é um eterno aprendizado e quem acha que sabe na realidade nada sabe. Somos eternos estudantes nesse mundo que é o planeta terra.
 _____
 ### Conecte-se comigo
