@@ -8,7 +8,7 @@ A arrogancia é uma montanha de neve que quando colapsar ira te enterrar <p>
 
 ---
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DD&size=35&center=true&vCenter=true&width=1000&lines=Oi!Eu+me+chamo+Camila+Spakauskas;+Tenho+29+anos+,solteira+e+terminando+ADS;Sou+uma+Desenvolvedora+Jr+em+treinamento!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DD&size=35&center=true&vCenter=true&width=1000&lines=Oi!Eu+me+chamo+Camila+Spakauskas;+Tenho+31+anos+,solteira+e+tbuscando+sempre+novas+oportunidades+ na+área+de+TI.)](https://git.io/typing-svg)
 
 
 Eu me chamo Camila Pinho Spakauskas. tenho 31 anos, formada em Analise e Desenvolvimento de Sistemas com Pós em Segurança da Informação. 
