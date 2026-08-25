@@ -36,15 +36,5 @@ ___
 
 ___
 
-### Linguagens mais utilizadas
 
-![Minhas Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camilaspaka&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-___
-### Meus repositorios mais utilizados 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaspaka&repo=ExercicesInPython&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/camilaspaka/ExercicesInPython)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaspaka&repo=Bootcamp-Dio-Vivo-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/camilaspaka/Bootcamp-Dio-Vivo-Python)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaspaka&repo=Sistema-Bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/camilaspaka/Sistema-Bancario)
 
