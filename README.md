@@ -8,11 +8,11 @@ A arrogancia é uma montanha de neve que quando colapsar ira te enterrar <p>
 
 ---
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD75DD&size=35&center=true&vCenter=true&width=1000&lines=Oi!Eu+me+chamo+Camila+Spakauskas;+Tenho+31+anos+,solteira+e+tbuscando+sempre+novas+oportunidades+ na+área+de+TI.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Me+chamo+Camila+P.+Spakauskas.;Tenho+31+anos%2C+formada+em+ADS+e+com;uma+p%C3%B3s+em+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o!;Me+formei+pela+Faculdade+Descomplica)](https://git.io/typing-svg)
 
 
-Eu me chamo Camila Pinho Spakauskas. tenho 31 anos, formada em Analise e Desenvolvimento de Sistemas com Pós em Segurança da Informação. 
-Eu estudo incansavelmente sobre todos os assuntos de TI de Infraestrutura e Redes para sempre aprimorar minhas habilidades, sejam Hard ou Soft-skills. 
+Eu me chamo Camila Pinho Spakauskas. tenho 31 anos, formada em Analise e Desenvolvimento de Sistemas com Pós em Segurança da Informação. <p>
+Eu estudo incansavelmente sobre todos os assuntos de TI de Infraestrutura e Redes para sempre aprimorar minhas habilidades, sejam Hard ou Soft-skills.<p>
 Já trabalhei como caixa de mercado, padeira, tive minha propria loja aos 17 anos, trabalhava a mais de 4h da minha casa e fazia o trajeto todos os dias com um sorriso no rosto afinal tinha trampo. Eu não tenho medo de mudanças e sim de ficar pra trás. A vida é um eterno aprendizado e quem acha que sabe na realidade nada sabe. Somos eternos estudantes nesse mundo que é o planeta terra.
 _____
 ### Conecte-se comigo
